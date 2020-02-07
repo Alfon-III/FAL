@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,9): error C2065:  'Peli': identificador no declarado
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,13): error C2923:  'std::vector': 'Peli' no es un argumento de tipo de plantilla válido para el parámetro '_Ty'
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,13): error C2903:  'allocator': el símbolo no es plantilla de clase ni plantilla de función
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,13): error C3203:  'allocator': clase plantilla sin especializar no se puede utilizar como argumento de plantilla para el parámetro de plantilla '_Alloc'; se esperaba un tipo real
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,15): error C2923:  'std::vector': 'Peli' no es un argumento de tipo de plantilla válido para el parámetro '_Ty'
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,15): error C2903:  'allocator': el símbolo no es plantilla de clase ni plantilla de función
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,15): error C3203:  'allocator': clase plantilla sin especializar no se puede utilizar como argumento de plantilla para el parámetro de plantilla '_Alloc'; se esperaba un tipo real
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,25): error C2065:  'peliculas': identificador no declarado
+C:\Users\alfon\source\repos\ED 02 Una tarde de sábado\ED 02 Una tarde de sábado\Source.cpp(22,35): error C2514:  "std::vector": no se puede construir una plantilla de clase
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(339): message :  vea la declaración de 'std::vector'
